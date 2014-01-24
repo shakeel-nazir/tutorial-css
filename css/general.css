@@ -70,6 +70,6 @@ ol li:first-child {
     background-color: #000;
 }
 
-ol li: last-child { 
+ol li:last-child { 
     background-color: #f90;
 }
